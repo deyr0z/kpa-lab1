@@ -1,3 +1,2 @@
-let i;
-i = 0 + 3;
-console.log(i);
+const i = 0 + 3
+console.log(i)
