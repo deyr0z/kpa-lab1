@@ -10,7 +10,8 @@
     "lint:fix": "eslint . --fix",
     "format": "npx prettier . --check",
     "format:fix": "npx prettier . --write",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
